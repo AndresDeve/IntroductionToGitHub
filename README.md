@@ -1,2 +1,3 @@
-# IntroductionToGitHub
-A repo I made while taking the DataCamp course "Introduction to GotHub Concepts"
+# DataCamp
+## Introduction to GitHub
+I started the course introduction to GitHub in Datacamp. While advancing the classes, I made this repo just for practice.
