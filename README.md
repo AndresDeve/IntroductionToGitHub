@@ -1,6 +1,6 @@
 # DataCamp
 ## Introduction to GitHub
-I started the course introduction to GitHub in Datacamp. While advancing the classes, I made this repo just for practice.
+I started the course introduction to GitHub in Datacamp. While advancing the classes, I made this repo just for practice.<br>
 
 # Markdown
 
@@ -11,9 +11,10 @@ Headings
 #### Heading 4
 ##### Heading 5
 
-Italics and Bold
-*Italics*
+Italics and Bold<br>
+*Italics*<br>
 **Bold**
 
 Link
 [Repo](https://github.com/AndresDeve/IntroductionToGitHub)
+
