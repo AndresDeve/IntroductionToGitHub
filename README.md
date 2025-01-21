@@ -20,4 +20,5 @@ Link <br>
 
 <img src="https://github.com/user-attachments/assets/7fb4307b-486e-41bd-b9e7-afe7abd40132" alt="image18208" width="200">
 
-
+# Branches
+I made a new branch to understand what are branches for.
