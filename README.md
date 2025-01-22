@@ -22,3 +22,6 @@ Link <br>
 
 # Branches
 I made a new branch to understand what are branches for.
+
+# TEST
+This is a test to understand pull requests (PR)
